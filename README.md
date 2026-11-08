@@ -1,9 +1,9 @@
 <p align="center"><img src="images/sjtw-logo.png" alt="SJTW Service Company Limited" width="420"></p>
 
 <h3 align="center">ระบบ IoT พลังงานต่ำ เครือข่าย LoRa และข้อมูลที่ตรวจสอบได้ด้วยบล็อกเชน<br>
-สำหรับงานเฝ้าระวังภัยพิบัติ พลังงาน และการเกษตร</h3>
+สำหรับงานเฝ้าระวังภัยพิบัติ</h3>
 
-<p align="center">Low-power IoT, LoRa networks and verifiable data for disaster monitoring, energy and agriculture</p>
+<p align="center">Low-power IoT, LoRa networks and verifiable data for disaster monitoring</p>
 
 ---
 
@@ -29,37 +29,18 @@
 </tr>
 </table>
 
-## สินค้าและชุดอุปกรณ์
+## สินค้า
 
 <table>
 <tr>
-<td><img src="images/ff-2hop.jpg" alt="FF-2HOP ชุดตรวจจับไฟป่าไร้สาย LoRa ส่งต่อ 2 ช่วง"></td>
-<td><img src="images/fw-100.jpg" alt="FW-100 ชุดเฝ้าระวังและเตือนภัยน้ำป่าน้ำหลาก"></td>
-<td><img src="images/p1-lpr.jpg" alt="P1-LPR เครื่องอ่านค่าหลายพารามิเตอร์ไร้สายพลังงานต่ำ"></td>
+<td width="50%"><img src="images/ff-2hop.jpg" alt="FF-2HOP ชุดตรวจจับไฟป่าไร้สาย LoRa ส่งต่อ 2 ช่วง"></td>
+<td width="50%"><img src="images/fw-100.jpg" alt="FW-100 ชุดเฝ้าระวังและเตือนภัยน้ำป่าน้ำหลาก"></td>
 </tr>
 <tr>
-<td><img src="images/p5-pom.jpg" alt="P5-PoM ระบบพิสูจน์การดูแลโหนดและจ่ายผลตอบแทนผู้ดูแล"></td>
-<td><img src="images/p2-mppt.jpg" alt="P2-MPPT ชุดทดลองตัวแปลง MPPT ระดับแผง"></td>
-<td><img src="images/p3-sgt.jpg" alt="P3-SGT ชุดทดลองโครงข่ายไฟฟ้าอัจฉริยะ"></td>
-</tr>
-<tr>
-<td><img src="images/p6-pfc.jpg" alt="P6-PFC เครื่องควบคุมค่าตัวประกอบกำลังแบบพยากรณ์"></td>
-<td><img src="images/p7-rpc.jpg" alt="P7-RPC ระบบควบคุมกำลังรีแอกทีฟแบบพิสูจน์ตัวตน"></td>
-<td><img src="images/p4-avo.jpg" alt="P4-AVO เครื่องวัดความสุกอโวคาโดแบบไม่ทำลาย"></td>
+<td align="center"><b>FF-2HOP</b> ชุดตรวจจับไฟป่าไร้สาย LoRa ส่งต่อ 2 ช่วง</td>
+<td align="center"><b>FW-100</b> ชุดเฝ้าระวังและเตือนภัยน้ำป่าน้ำหลาก</td>
 </tr>
 </table>
-
-| รหัส | สินค้า |
-| --- | --- |
-| FF-2HOP | ชุดตรวจจับไฟป่าไร้สาย LoRa ส่งต่อ 2 ช่วง |
-| FW-100 | ชุดเฝ้าระวังและเตือนภัยน้ำป่าน้ำหลาก |
-| P1-LPR | เครื่องอ่านค่าหลายพารามิเตอร์ไร้สายพลังงานต่ำ LoRaWAN / NB-IoT |
-| P5-PoM | ระบบพิสูจน์การดูแลโหนดและจ่ายผลตอบแทนผู้ดูแล |
-| P2-MPPT | ชุดทดลองตัวแปลง MPPT ระดับแผง แบบหลายสถานะ |
-| P3-SGT | ชุดทดลองโครงข่ายไฟฟ้าอัจฉริยะแบบโมดูลบัสไฟฟ้าร่วม |
-| P6-PFC | เครื่องควบคุมค่าตัวประกอบกำลังแบบพยากรณ์ สำหรับอินเวอร์เตอร์ |
-| P7-RPC | ระบบควบคุมกำลังรีแอกทีฟแบบพิสูจน์ตัวตน |
-| P4-AVO | เครื่องวัดความสุกอโวคาโดแบบไม่ทำลาย ด้วยการเคาะ |
 
 ราคาในภาพรวมภาษีมูลค่าเพิ่ม 7% แล้ว
 
@@ -69,7 +50,6 @@
 - เครือข่าย LoRa / LoRaWAN / NB-IoT / 4G สำหรับพื้นที่ห่างไกล
 - เซิร์ฟเวอร์ แดชบอร์ด แอปมือถือ และบริการข้อมูล DaaS
 - ข้อมูลที่ตรวจสอบย้อนหลังได้ด้วยบล็อกเชน
-- ชุดฝึกและชุดทดลองด้านพลังงานไฟฟ้าสำหรับสถานศึกษา
 
 ## เทคโนโลยี
 
