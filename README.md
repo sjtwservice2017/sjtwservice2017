@@ -22,27 +22,23 @@
 - เข้าสู่ระบบด้วย passkey ไม่ใช้รหัสผ่าน
 - ข้อมูลเปิดรายพื้นที่ ดาวน์โหลด CSV และ API
 
-**[ดูระบบที่ทำงานจริง](https://firewild-gw.lawan.dev/o/chengdoi)**
-
 </td>
 <td width="50%"><img src="images/firewild-dashboard.png" alt="FireWild live dashboard" width="100%"></td>
 </tr>
 </table>
 
-## สินค้า
+## ระบบเฝ้าระวังน้ำท่วมและไฟป่า
+
+เชื่อมข้อมูลจากพื้นที่เสี่ยง ด้วยเครือข่าย LoRa Multihop พร้อม Gateway 4G ซอฟต์แวร์ ติดตั้ง และอบรม
 
 <table>
-<tr>
-<td width="50%"><img src="images/ff-2hop.jpg" alt="FF-2HOP ชุดตรวจจับไฟป่าไร้สาย LoRa ส่งต่อ 2 ช่วง"></td>
-<td width="50%"><img src="images/fw-100.jpg" alt="FW-100 ชุดเฝ้าระวังและเตือนภัยน้ำป่าน้ำหลาก"></td>
-</tr>
-<tr>
-<td align="center"><b>FF-2HOP</b> ชุดตรวจจับไฟป่าไร้สาย LoRa ส่งต่อ 2 ช่วง</td>
-<td align="center"><b>FW-100</b> ชุดเฝ้าระวังและเตือนภัยน้ำป่าน้ำหลาก</td>
-</tr>
+<tr><td width="50%"><img src="brochure/page-1.jpg" alt="หน้า 1"></td><td width="50%"><img src="brochure/page-2.jpg" alt="หน้า 2"></td></tr>
+<tr><td><img src="brochure/page-3.jpg" alt="หน้า 3"></td><td><img src="brochure/page-4.jpg" alt="หน้า 4"></td></tr>
+<tr><td><img src="brochure/page-5.jpg" alt="หน้า 5"></td><td><img src="brochure/page-6.jpg" alt="หน้า 6"></td></tr>
+<tr><td><img src="brochure/page-7.jpg" alt="หน้า 7"></td><td><img src="brochure/page-8.jpg" alt="หน้า 8"></td></tr>
 </table>
 
-ราคาในภาพรวมภาษีมูลค่าเพิ่ม 7% แล้ว
+<p align="center"><a href="brochure/SJTW-flood-and-fire-brochure.pdf"><b>ดาวน์โหลดโบรชัวร์ PDF</b></a></p>
 
 ## บริการ
 
